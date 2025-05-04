@@ -6,7 +6,7 @@
 
 <!-- Centered Placeholder Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif?cid=ecf05e47wltjl5ob3cop5zew9lslqytgcts9n3aq67d7y869&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Yellow Duck Working">
+  <img src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif?cid=ecf05e47wltjl5ob3cop5zew9lslqytgcts9n3aq67d7y869&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" height="300" alt="Yellow Duck Working">
 </p>
 
 <!-- Typing animation for name -->
@@ -25,8 +25,6 @@ I’m a **Biologist and Ecologist** currently working on humpback whales and the
 
 ### 🌿 Ecology & Biology:
 <p align="center">
-  <img src="https://img.shields.io/badge/Biology-008000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ecology-228B22?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Biostatistics-4EA94B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GIS-00A6D6?style=for-the-badge&logo=googleearth&logoColor=white"/>
 </p>
@@ -54,10 +52,6 @@ I’m a **Biologist and Ecologist** currently working on humpback whales and the
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 </p>
 
 ---
